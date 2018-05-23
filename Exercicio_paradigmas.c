@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define QtdIteracoes 25
-#define TAM 30000000 // 30 million
+#define QtdIteracoes 5
+#define TAM 100000000 // 10 million
 
 void preencherVetor(int* v, int lenght) {
     int i;
