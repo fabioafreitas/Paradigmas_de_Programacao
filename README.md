@@ -2,7 +2,7 @@
 
 Exercícios e códigos de paradigmas de programação. Divido em Branches!
 
-<a href="https://github.com/fabioafreitas/Paradigmas/tree/codigos_c">Exercício 2 (1ªva) - C</a>
+<a href="https://github.com/fabioafreitas/Paradigmas/tree/codigos_c">Exercício 2 (1ªva) - C&#013</a>
 <a title="&#013"></a>
 <a href="https://github.com/fabioafreitas/Paradigmas/tree/codigos_c++">Exercício 2 (1ªva) - C++</a>
 <a title="&#013"></a>
