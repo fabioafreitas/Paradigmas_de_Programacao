@@ -13,5 +13,5 @@ Exercícios e códigos de paradigmas de programação. Divido em Branches!
 <br>
 <a href="https://github.com/fabioafreitas/Paradigmas/tree/programacao_funcional">Programação Funcional</a>
 <br>
-<a href="https://github.com/fabioafreitas/Paradigmas">Programação Lógica</a>
+<a href="https://github.com/fabioafreitas/Paradigmas/tree/programacao_logica">Programação Lógica</a>
 </body>
